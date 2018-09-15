@@ -1,5 +1,5 @@
 # AcademicWriting
-Tips for English academic paper writing
+推荐**Grammarly**, Chrome有扩展插件, 也可购买高级版
 
 # Positive
 

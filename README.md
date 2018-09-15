@@ -1,6 +1,6 @@
 # AcademicWriting
 Tips for English academic paper writing
-<font size=6><center>Abstract Introduction and Conclusion</center></font>
+
 # Positive
 
 ## 重要性：

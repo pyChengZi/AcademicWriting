@@ -1,6 +1,6 @@
-# AcademicWriting
+# AcademicWriting  
 推荐**Grammarly**, Chrome有扩展插件, 也可购买高级版  
-Welcome Pull request
+Welcome pull request, Star and Fork
 ## Positive
 
 ### 重要性：
